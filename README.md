@@ -6,11 +6,17 @@ Data Structures and Algorithms
 
 |  #  | Topic | Notes |
 | --- | ----- | ----- | 
-|  1  | Arrays |
+|  1  | Array | [Notes]() |
+|  2  | Arraylist | [Notes]() |
+|  3  | Strings | [Notes]() |
+|  4  | StringBuilder | [Notes]() |
+|  5  | HashMap | [Notes]() |
+|  6  | HashTable | [Notes]() |
+|  7  | HashSet | [Notes]() |
 
 ### Topic-Wise Problems
 
-### Arrays, HashMap, HashSet
+### Array, HashMap, HashSet, Arraylist, HashTable
 
 |  #  | Title | Solution | Difficulty |
 | --- | ----- | -------- | ---------- |
