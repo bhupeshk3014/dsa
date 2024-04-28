@@ -20,4 +20,4 @@ Data Structures and Algorithms
 
 |  #  | Title | Solution | Difficulty |
 | --- | ----- | -------- | ---------- |
-| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Java](../leetcode-problems/Code/Java/0771-jewels-and-stones.java) | Easy |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Java](https://github.com/bhupeshk3014/leetcode-problems/blob/main/Code/Java/0771-jewels-and-stones.java) | Easy |
