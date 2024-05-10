@@ -6,13 +6,12 @@ Data Structures and Algorithms
 
 |  #  | Topic | Notes |
 | --- | ----- | ----- | 
-|  1  | Array | [Notes]() |
-|  2  | Arraylist | [Notes]() |
-|  3  | Strings | [Notes]() |
-|  4  | StringBuilder | [Notes]() |
-|  5  | HashMap | [Notes]() |
-|  6  | HashTable | [Notes]() |
-|  7  | HashSet | [Notes]() |
+|  1  | Arrays & ArrayList | [Notes](https://dev.to/_bhupeshk_/arrays-and-arraylist-in-java-1jc2) |
+|  2  | Strings | [Notes]() |
+|  3  | StringBuilder | [Notes]() |
+|  4  | HashMap | [Notes]() |
+|  5  | HashTable | [Notes]() |
+|  6  | HashSet | [Notes]() |
 
 ### Topic-Wise Problems
 
